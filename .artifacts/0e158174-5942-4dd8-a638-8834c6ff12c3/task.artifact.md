@@ -1,0 +1,14 @@
+- `[x]` Create animations for the Home Screen
+    - `[x]` Create `pulse.xml`
+    - `[x]` Create `floating_anim.xml`
+- `[x]` Create Home Screen UI
+    - `[x]` Create `activity_start.xml`
+- `[x]` Implement Activity logic
+    - `[x]` Create `StartActivity.java`
+    - `[x]` Update `ResultActivity.java`
+- `[x]` Update Navigation & Manifest
+    - `[x]` Update `AndroidManifest.xml`
+    - `[x]` Update `activity_result.xml`
+- `[x]` Verification
+    - `[x]` Build project
+    - `[x]` Verify gameplay loop
